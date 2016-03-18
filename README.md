@@ -2,17 +2,18 @@
 
  [![License](http://img.shields.io/badge/license-MIT-blue.svg)](http://en.wikipedia.org/wiki/MIT_License)
 
-**Author:** _\<your name\>_
+**Author:** Lauren Graziani
 
-**Due date:** _\<date\>_
+**Due date:** 03-18-16
 
-## Description
+##Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+Doing exercises 3.23,3.24 and 3.35 from book and working with histograms.
+
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+I learned how to simplify formulas to make a program run faster. Also how to work with Histograms.
 
 ## Honor Pledge
 
@@ -23,4 +24,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+Lauren Graziani 
